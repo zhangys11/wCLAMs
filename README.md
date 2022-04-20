@@ -2,7 +2,7 @@
 
 This project is a GUI wrapper for pyCLAMs:  
 
-    > pyCLAMs: An integrated Python toolkit for classifiability analysis [J]. SoftwareX, Volume 18, June 2022, 101007, doi: 10.1016/j.softx.2022.101007
+    pyCLAMs: An integrated Python toolkit for classifiability analysis [J]. SoftwareX, Volume 18, June 2022, 101007, doi: 10.1016/j.softx.2022.101007
 
 The original version is developed in ASP.Net MVC (http://qsi.zhangys.org.cn/research/cla/). This project has rewritten it using Flask.     
 
@@ -21,14 +21,14 @@ The original version is developed in ASP.Net MVC (http://qsi.zhangys.org.cn/rese
    WARNING: QApplication was not created in the main() thread.
    127.0.0.1 - - [20/Apr/2022 12:16:57] "POST /submit HTTP/1.1" 200 -
    127.0.0.1 - - [20/Apr/2022 12:17:03] "POST /submit HTTP/1.1" 200 -
-3. Go to http://0.0.0.0:5005/
+3. Go to http://localhost:5005/
 
 # Run directly from source
 
 1. git clone https://github.com/zhangys11/wCLAMs.git
 2. cd wCLAMs/app/
 3. python wCLAMs.py
-4. Go to http://0.0.0.0:5005/
+4. Go to http://localhost:5005/
 
 # ScreenCut
 
