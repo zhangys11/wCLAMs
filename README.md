@@ -1,3 +1,5 @@
+# This project is obsolete. It is now part of the `cla` project (https://github.com/zhangys11/cla)
+
 # About
 
 This project is a GUI wrapper for pyCLAMs:  
